@@ -8,3 +8,8 @@ After merge from develop. How about it?
 
 I'm changing my file. 
 Nice! (clatoolkitdev)
+
+
+This is for a test to know the difference between author and committer.
+
+Again!
